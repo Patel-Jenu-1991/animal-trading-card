@@ -40,7 +40,7 @@ You’ll need to modify **card.html** to include **attributes** and use **select
 The CSS must apply these styles to match the design prototype:
 
 1. link your stylesheet **styles.css** to the HTML or else your CSS will not be applied.
-1. give the interesting facts **<div>** a CSS class of **animal-info**
+1. give the interesting facts **\<div\>** a CSS class of **animal-info**
 1. italicize the text for the animal's interesting fact
 1. bold the labels for the animal's list items (e.g. 'Habitat')
 1. remove dots from the animal's list items
