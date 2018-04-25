@@ -1,0 +1,46 @@
+/* add your CSS here */
+
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+body {
+  font-family: 'Nunito', sans-serif;
+}
+
+img[alt="cow-in-pasture"] {
+	width: 300px;
+}
+
+ul#facts {
+	list-style-type: none;
+  	padding: 0;
+}
+
+ul#facts span {
+  font-weight: bold;
+}
+
+.animal-name {
+	font-size: 36px;
+}
+
+.animal-info {
+  border: 2px solid rgba(128, 128, 128, 0.5);
+  border-radius: 5px;
+  margin-top: 10px;
+  padding: 5px;
+  width: 286px;
+}
+
+#container {
+	border: 1px solid #ddd;
+  border-radius: 5px;
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  -moz-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 15px;
+  width: 300px;
+}
+
+#interesting-fact {
+  font-style: italic;
+}
