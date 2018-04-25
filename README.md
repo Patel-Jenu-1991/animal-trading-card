@@ -22,15 +22,15 @@ You will be provided with the following files:
 Make the following changes to card.html
 
 1. Change the heading to the name of your favorite animal
-1. Replace the placeholder image with your favorite animal's image.
+2. Replace the placeholder image with your favorite animal's image.
 
 Also, change the image's **alt** attribute to the name of your animal. So, **alt="name-of-your-animal"** should be replaced with the actual name of your animal.
 
 Note: You will want to use an image with a **width** of 300 pixels. If your image is larger, you can set the image's width to 300 pixels in your CSS, but be aware that your image might end up squished or distorted. Later, we’ll talk about how you can fix this problem using responsive images.
 
-1. Edit the interesting fact paragraph
-1. Edit the key characteristics
-1. Edit the informational paragraph
+3. Edit the interesting fact paragraph
+4. Edit the key characteristics
+5. Edit the informational paragraph
 
 # Style the Page
 Try to recreate the **design-prototype.jpg.**
