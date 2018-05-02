@@ -15,8 +15,8 @@ ul#facts {
   padding: 0;
 }
 
-ul#facts span {
-  font-weight: bold;
+ul#facts > li > span.labels {
+  font-weight: bolder;
 }
 
 .animal-name {
